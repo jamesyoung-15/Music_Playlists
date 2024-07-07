@@ -19,7 +19,7 @@
 ../MusicLibrary/Zemaria/Great%20Escape/Past%202.mp3
 #EXTINF:192,Animal Kingdom - Get Away With It
 ../MusicLibrary/Animal%20Kingdom/The%20Looking%20Away/Get%20Away%20With%20It.mp3
-#EXTINF:235,Two Door Cinema Club - Sleep Alone
+#EXTINF:235,Two Door Cinema Club - Sleep Alone 
 ../MusicLibrary/Two%20Door%20Cinema%20Club/Beacon/Sleep%20Alone.mp3
 #EXTINF:247,Youngblood Hawke - We Come Running
 ../MusicLibrary/Youngblood%20Hawke/Wake%20Up/We%20Come%20Running.mp3
@@ -111,7 +111,7 @@
 ../MusicLibrary/Skylar%20Grey/Cannonball/Cannonball.mp3
 #EXTINF:210,K'naan - Wavin Flag
 ../MusicLibrary/K%27naan/Troubadour/Wavin%20Flag.mp3
-#EXTINF:200,Twenty One Pilots - Stressed Out
+#EXTINF:200,Twenty One Pilots - Stressed Out 
 ../MusicLibrary/Twenty%20One%20Pilots/Blurryface/02%20Stressed%20Out.mp3
 #EXTINF:215,Twenty One Pilots - Ride
 ../MusicLibrary/Twenty%20One%20Pilots/Blurryface/Ride.mp3
@@ -125,8 +125,6 @@
 ../MusicLibrary/Louis%20Armstrong/What%20a%20Wonderful%20World/What%20a%20Wonderful%20World.mp3
 #EXTINF:271,Sting - Shape of My Heart
 ../MusicLibrary/Sting/Ten%20Summoner's%20Tales/Shape%20of%20My%20Heart.mp3
-#EXTINF:239,Pink - Just Give Me A Reason
-../MusicLibrary/Pink/The%20Truth%20About%20Love/Just%20Give%20Me%20A%20Reason.mp3
 #EXTINF:186,John Lennon - Imagine
 ../MusicLibrary/John%20Lennon/Imagine/Imagine.mp3
 #EXTINF:264,The Fray - How to save a life

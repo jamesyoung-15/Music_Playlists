@@ -19,7 +19,7 @@
 ../Zemaria/Great%20Escape/Past%202.mp3
 #EXTINF:192,Animal Kingdom - Get Away With It
 ../Animal%20Kingdom/The%20Looking%20Away/Get%20Away%20With%20It.mp3
-#EXTINF:235,Two Door Cinema Club - Sleep Alone
+#EXTINF:235,Two Door Cinema Club - Sleep Alone 
 ../Two%20Door%20Cinema%20Club/Beacon/Sleep%20Alone.mp3
 #EXTINF:247,Youngblood Hawke - We Come Running
 ../Youngblood%20Hawke/Wake%20Up/We%20Come%20Running.mp3
@@ -42,7 +42,7 @@
 #EXTINF:198,Shakira - Whenever, Wherever
 ../Shakira/Laundry%20Service/Whenever%2C%20Wherever.mp3
 #EXTINF:204,M.I.A. - Paper Planes
-../M.I.A_/Kala/Paper%20Planes.mp3
+../M.I.A/Kala/Paper%20Planes.mp3
 #EXTINF:214,O-Zone - Dragostea Din Tei
 ../O-Zone/Number%201/Dragostea%20Din%20Tei.mp3
 #EXTINF:201,Abba - Gimme! Gimme! Gimme!
@@ -63,6 +63,8 @@
 ../Avenged%20Sevenfold/Afterlife/Afterlife.mp3
 #EXTINF:215,Fleetwood Mac - Little Lies
 ../Fleetwood%20Mac/Tango%20in%20the%20Night/Little%20Lies.mp3
+#EXTINF:194,Mareux - The Perfect Girl
+../Mareux/The%20Perfect%20Girl/The%20Perfect%20Girl.mp3
 #EXTINF:299,MGMT - Little Dark Age
 ../MGMT/Little%20Dark%20Age/Little%20Dark%20Age.mp3
 #EXTINF:255,Mr. Kitty - After Dark
@@ -109,7 +111,7 @@
 ../Skylar%20Grey/Cannonball/Cannonball.mp3
 #EXTINF:210,K'naan - Wavin Flag
 ../K%27naan/Troubadour/Wavin%20Flag.mp3
-#EXTINF:200,Twenty One Pilots - Stressed Out
+#EXTINF:200,Twenty One Pilots - Stressed Out 
 ../Twenty%20One%20Pilots/Blurryface/02%20Stressed%20Out.mp3
 #EXTINF:215,Twenty One Pilots - Ride
 ../Twenty%20One%20Pilots/Blurryface/Ride.mp3
@@ -123,8 +125,6 @@
 ../Louis%20Armstrong/What%20a%20Wonderful%20World/What%20a%20Wonderful%20World.mp3
 #EXTINF:271,Sting - Shape of My Heart
 ../Sting/Ten%20Summoner's%20Tales/Shape%20of%20My%20Heart.mp3
-#EXTINF:239,Pink - Just Give Me A Reason
-../Pink/The%20Truth%20About%20Love/Just%20Give%20Me%20A%20Reason.mp3
 #EXTINF:186,John Lennon - Imagine
 ../John%20Lennon/Imagine/Imagine.mp3
 #EXTINF:264,The Fray - How to save a life
@@ -158,7 +158,7 @@
 #EXTINF:246,Skee Lo - I Wish
 ../Skee%20Lo/I%20Wish/I%20Wish.mp3
 #EXTINF:318,The Notorious B.I.G. - Old Thing Back (Remix)
-../The%20Notorious%20B.I.G_/Hakuna%20Matoma/Old%20Thing%20Back%20%28Remix%29.mp3
+../The%20Notorious%20B.I.G/Hakuna%20Matoma/Old%20Thing%20Back%20%28Remix%29.mp3
 #EXTINF:194,Twenty One Pilots - Heathens
 ../Twenty%20One%20Pilots/Suicide%20Squad_%20The%20Album/Heathens.mp3
 #EXTINF:247,Steve Winwood - Valerie
