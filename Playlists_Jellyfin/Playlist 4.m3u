@@ -71,6 +71,12 @@
 ../Mr.%20Kitty/Time/After%20Dark.mp3
 #EXTINF:265,R.E.M - Losing My Religion
 ../R.E.M/Out%20of%20Time/Losing%20My%20Religion.mp3
+#EXTINF:271,Sting - Shape of My Heart
+../Sting/Ten%20Summoner's%20Tales/Shape%20of%20My%20Heart.mp3
+#EXTINF:212,Far East Movement - Rocketeer
+../Far%20East%20Movement/Free%20Wired/Rocketeer.mp3
+#EXTINF:229,Keane - Somewhere Only We Know
+../Keane/Hopes%20and%20Fears/Somewhere%20Only%20We%20Know.mp3
 #EXTINF:206,Adam Lambert - Ghost Town
 ../Adam%20Lambert/The%20Original%20High/Ghost%20Town.mp3
 #EXTINF:210,Andreas Johnson - Glorious
@@ -79,8 +85,10 @@
 ../Survivor/Eye%20of%20the%20Tiger/Eye%20of%20the%20Tiger.mp3
 #EXTINF:215,Lenka - Trouble is a Friend
 ../Lenka/Lenka/Trouble%20is%20a%20Friend.mp3
-#EXTINF:229,Keane - Somewhere Only We Know
-../Keane/Hopes%20and%20Fears/Somewhere%20Only%20We%20Know.mp3
+#EXTINF:175,Sabrina Carpenter - Espresso
+../Sabrina%20Carpenter/Espresso/Espresso.mp3
+#EXTINF:241,Sean Kingston - Beautiful Girls
+../Sean%20Kingston/Beautiful%20Girls.mp3
 #EXTINF:214,Coldplay - Princess Of China
 ../Coldplay/Mylo%20Xyloto/10%20Princess%20Of%20China.mp3
 #EXTINF:215,Lady Gaga - Shallow
@@ -123,8 +131,6 @@
 ../The%20Beatles/Help%21/Yesterday.mp3
 #EXTINF:133,Louis Armstrong - What a Wonderful World
 ../Louis%20Armstrong/What%20a%20Wonderful%20World/What%20a%20Wonderful%20World.mp3
-#EXTINF:271,Sting - Shape of My Heart
-../Sting/Ten%20Summoner's%20Tales/Shape%20of%20My%20Heart.mp3
 #EXTINF:186,John Lennon - Imagine
 ../John%20Lennon/Imagine/Imagine.mp3
 #EXTINF:264,The Fray - How to save a life
@@ -145,6 +151,12 @@
 ../Neil%20Diamond/Brother%20Love%27s%20Travelling%20Salvation%20Show/Sweet%20Caroline.mp3
 #EXTINF:312,Miki Matsubara - Stay With Me
 ../Miki%20Matsubara/Pocket%20Park/Stay%20With%20Me.mp3
+#EXTINF:224,周杰倫 - 稻香
+../%E5%91%A8%E6%9D%B0%E4%BC%A6/%E9%AD%94%E6%9D%B0%E5%BA%A7/%E7%A8%BB%E9%A6%99.mp3
+#EXTINF:271,周杰倫 - 聽見下雨的聲音
+../%E5%91%A8%E6%9D%B0%E4%BC%A6/%E5%93%8E%E5%91%A6%EF%BC%8C%E4%B8%8D%E9%94%99%E5%93%A6/%E8%81%BD%E8%A6%8B%E4%B8%8B%E9%9B%A8%E7%9A%84%E8%81%B2%E9%9F%B3.mp3
+#EXTINF:286,周杰伦 - 不該
+../%E5%91%A8%E6%9D%B0%E4%BC%A6/%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9A%84%E5%BA%8A%E8%BE%B9%E6%95%85%E4%BA%8B/06%20%E4%B8%8D%E8%A9%B2.mp3
 #EXTINF:255,王菲 - 但願人長久
 ../%E7%8E%8B%E8%8F%B2/%E8%8F%B2%E9%9B%BB%E5%AD%90%E6%99%82%E4%BB%A3/%E4%BD%86%E9%A1%98%E4%BA%BA%E9%95%B7%E4%B9%85.mp3
 #EXTINF:222,Spiller - Groovejet
