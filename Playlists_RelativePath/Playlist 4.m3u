@@ -69,6 +69,10 @@
 ../MusicLibrary/MGMT/Little%20Dark%20Age/Little%20Dark%20Age.mp3
 #EXTINF:255,Mr. Kitty - After Dark
 ../MusicLibrary/Mr.%20Kitty/Time/After%20Dark.mp3
+#EXTINF:256,Red Hot Chili Peppers - Otherside
+../MusicLibrary/Red%20Hot%20Chili%20Peppers/Californication/Otherside.mp3
+#EXTINF:264,Red Hot Chili Peppers - Under The Bridge
+../MusicLibrary/Red%20Hot%20Chili%20Peppers/Blood%20Sugar%20Sex%20Magik/Under%20The%20Bridge.mp3
 #EXTINF:265,R.E.M - Losing My Religion
 ../MusicLibrary/R.E.M/Out%20of%20Time/Losing%20My%20Religion.mp3
 #EXTINF:271,Sting - Shape of My Heart
@@ -99,6 +103,8 @@
 ../MusicLibrary/Slipknot/Vol.%203%20The%20Subliminal%20Verses/Vermilion%20Pt.2.mp3
 #EXTINF:267,Slipknot - Dead Memories
 ../MusicLibrary/Slipknot/All%20Hope%20Is%20Gone/Dead%20Memories.mp3
+#EXTINF:200,Breaking Benjamin - The Diary Of Jane
+../MusicLibrary/Breaking%20Benjamin/Phobia/The%20Diary%20Of%20Jane.mp3
 #EXTINF:207,The Presets - Ghosts
 ../MusicLibrary/The%20Presets/Pacifica/Ghosts.mp3
 #EXTINF:220,Empire of the Sun - High And Low
