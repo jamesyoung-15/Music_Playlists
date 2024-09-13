@@ -61,10 +61,6 @@
 ../MusicLibrary/Avenged%20Sevenfold/White%20Album/A%20Little%20Piece%20of%20Heaven.mp3
 #EXTINF:352,Avenged Sevenfold - Afterlife
 ../MusicLibrary/Avenged%20Sevenfold/Afterlife/Afterlife.mp3
-#EXTINF:215,Fleetwood Mac - Little Lies
-../MusicLibrary/Fleetwood%20Mac/Tango%20in%20the%20Night/Little%20Lies.mp3
-#EXTINF:194,Mareux - The Perfect Girl
-../MusicLibrary/Mareux/The%20Perfect%20Girl/The%20Perfect%20Girl.mp3
 #EXTINF:299,MGMT - Little Dark Age
 ../MusicLibrary/MGMT/Little%20Dark%20Age/Little%20Dark%20Age.mp3
 #EXTINF:255,Mr. Kitty - After Dark
@@ -77,10 +73,16 @@
 ../MusicLibrary/R.E.M/Out%20of%20Time/Losing%20My%20Religion.mp3
 #EXTINF:271,Sting - Shape of My Heart
 ../MusicLibrary/Sting/Ten%20Summoner's%20Tales/Shape%20of%20My%20Heart.mp3
+#EXTINF:278,The Wallflowers - One Headlight
+../MusicLibrary/The%20Wallflowers/Bringing%20Down%20the%20Horse/One%20Headlight.mp3
 #EXTINF:212,Far East Movement - Rocketeer
 ../MusicLibrary/Far%20East%20Movement/Free%20Wired/Rocketeer.mp3
 #EXTINF:229,Keane - Somewhere Only We Know
 ../MusicLibrary/Keane/Hopes%20and%20Fears/Somewhere%20Only%20We%20Know.mp3
+#EXTINF:215,Fleetwood Mac - Little Lies
+../MusicLibrary/Fleetwood%20Mac/Tango%20in%20the%20Night/Little%20Lies.mp3
+#EXTINF:194,Mareux - The Perfect Girl
+../MusicLibrary/Mareux/The%20Perfect%20Girl/The%20Perfect%20Girl.mp3
 #EXTINF:206,Adam Lambert - Ghost Town
 ../MusicLibrary/Adam%20Lambert/The%20Original%20High/Ghost%20Town.mp3
 #EXTINF:210,Andreas Johnson - Glorious
@@ -95,6 +97,8 @@
 ../MusicLibrary/Sean%20Kingston/Beautiful%20Girls.mp3
 #EXTINF:214,Coldplay - Princess Of China
 ../MusicLibrary/Coldplay/Mylo%20Xyloto/10%20Princess%20Of%20China.mp3
+#EXTINF:248,The Verve - Bitter Sweet Symphony
+../MusicLibrary/The%20Verve/Urban%20Hymns/Bitter%20Sweet%20Symphony.mp3
 #EXTINF:215,Lady Gaga - Shallow
 ../MusicLibrary/Lady%20Gaga/A%20Star%20Is%20Born%20%282018%20soundtrack%29/Shallow.mp3
 #EXTINF:236,Green Day - Last Night on Earth
@@ -103,8 +107,6 @@
 ../MusicLibrary/Slipknot/Vol.%203%20The%20Subliminal%20Verses/Vermilion%20Pt.2.mp3
 #EXTINF:267,Slipknot - Dead Memories
 ../MusicLibrary/Slipknot/All%20Hope%20Is%20Gone/Dead%20Memories.mp3
-#EXTINF:200,Breaking Benjamin - The Diary Of Jane
-../MusicLibrary/Breaking%20Benjamin/Phobia/The%20Diary%20Of%20Jane.mp3
 #EXTINF:207,The Presets - Ghosts
 ../MusicLibrary/The%20Presets/Pacifica/Ghosts.mp3
 #EXTINF:220,Empire of the Sun - High And Low
@@ -131,10 +133,18 @@
 ../MusicLibrary/Bad%20Meets%20Evil/Hell_%20The%20Sequel/Lighters.mp3
 #EXTINF:226,Lil Wayne - Mirror
 ../MusicLibrary/Lil%20Wayne/Tha%20Carter%20IV%20(Deluxe%20Edition)/Mirror.mp3
-#EXTINF:200,Twenty One Pilots - Stressed Out 
-../MusicLibrary/Twenty%20One%20Pilots/Blurryface/02%20Stressed%20Out.mp3
+#EXTINF:285,Trapt - Headstrong
+../MusicLibrary/Trapt/Trapt/Headstrong.mp3
+#EXTINF:200,Breaking Benjamin - The Diary Of Jane
+../MusicLibrary/Breaking%20Benjamin/Phobia/The%20Diary%20Of%20Jane.mp3
+#EXTINF:208,Finger Eleven - Paralyzer
+../MusicLibrary/Finger%20Eleven/Them%20vs%20You%20vs%20Me/Paralyzer.mp3
+#EXTINF:348,Bullet for My Valentine - Tears Don't Fall
+../MusicLibrary/Bullet%20for%20My%20Valentine/The%20Poison/Tears%20Don't%20Fall.mp3
 #EXTINF:215,Twenty One Pilots - Ride
 ../MusicLibrary/Twenty%20One%20Pilots/Blurryface/Ride.mp3
+#EXTINF:200,Twenty One Pilots - Stressed Out 
+../MusicLibrary/Twenty%20One%20Pilots/Blurryface/02%20Stressed%20Out.mp3
 #EXTINF:207,Sum 41 - In Too Deep
 ../MusicLibrary/Sum%2041/All%20Killer%20No%20Filler/In%20Too%20Deep.mp3
 #EXTINF:210,Sum 41 - War
@@ -175,15 +185,19 @@
 ../MusicLibrary/%E5%91%A8%E6%9D%B0%E4%BC%A6/%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9A%84%E5%BA%8A%E8%BE%B9%E6%95%85%E4%BA%8B/06%20%E4%B8%8D%E8%A9%B2.mp3
 #EXTINF:255,王菲 - 但願人長久
 ../MusicLibrary/%E7%8E%8B%E8%8F%B2/%E8%8F%B2%E9%9B%BB%E5%AD%90%E6%99%82%E4%BB%A3/%E4%BD%86%E9%A1%98%E4%BA%BA%E9%95%B7%E4%B9%85.mp3
-#EXTINF:222,Spiller - Groovejet
-../MusicLibrary/Spiller/Now%20That%27s%20What%20I%20Call%20Music%21%2046/Groovejet.mp3
+#EXTINF:232,ABBA - Dancing Queen
+../MusicLibrary/Abba/Arrival/Dancing%20Queen.mp3
 #EXTINF:261,Bonnie Tyler - Holding Out for a Hero
 ../MusicLibrary/Bonnie%20Tyler/Secret%20Dreams%20and%20Forbidden%20Fire/Holding%20Out%20for%20a%20Hero.mp3
-#EXTINF:220,Asian Kung-Fu Generation - Blood Circulator
-../MusicLibrary/Asian%20Kung-Fu%20Generation/Unknown%20Album/Blood%20Circulator.mp3
+#EXTINF:222,Spiller - Groovejet
+../MusicLibrary/Spiller/Now%20That%27s%20What%20I%20Call%20Music%21%2046/Groovejet.mp3
 #EXTINF:288,George Thorogood and the Destroyers - Bad To The Bone
 ../MusicLibrary/George%20Thorogood%20and%20the%20Destroyers/Bad%20to%20the%20Bone/Bad%20To%20The%20Bone.mp3
+#EXTINF:220,Asian Kung-Fu Generation - Blood Circulator
+../MusicLibrary/Asian%20Kung-Fu%20Generation/Unknown%20Album/Blood%20Circulator.mp3
 #EXTINF:246,Skee Lo - I Wish
 ../MusicLibrary/Skee%20Lo/I%20Wish/I%20Wish.mp3
 #EXTINF:318,The Notorious B.I.G. - Old Thing Back (Remix)
 ../MusicLibrary/The%20Notorious%20B.I.G/Hakuna%20Matoma/Old%20Thing%20Back%20%28Remix%29.mp3
+#EXTINF:277,009 Sound System - Dreamscape
+../MusicLibrary/009%20Sound%20System/009%20Sound%20System/Dreamscape.mp3

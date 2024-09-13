@@ -1,28 +1,20 @@
 #EXTM3U
 #EXTINF:213,Gym Class Heroes - Stereo Hearts
 ../MusicLibrary/Gym%20Class%20Heroes/The%20Papercut%20Chronicles%20II/Stereo%20Hearts.mp3
-#EXTINF:170,Bruno Mars - Treasure
-../MusicLibrary/Bruno%20Mars/Unorthodox%20Jukebox/04%20Treasure.mp3
 #EXTINF:217,Bruno Mars - Just the Way You Are
 ../MusicLibrary/Bruno%20Mars/Doo-Wops%20%26%20Hooligans/Just%20The%20Way%20You%20Are.mp3
+#EXTINF:170,Bruno Mars - Treasure
+../MusicLibrary/Bruno%20Mars/Unorthodox%20Jukebox/04%20Treasure.mp3
 #EXTINF:213,Travie McCoy - Billionaire
 ../MusicLibrary/Travie%20McCoy/Lazarus/Billionaire.mp3
 #EXTINF:223,Bruno Mars - Locked Out Of Heaven
 ../MusicLibrary/Bruno%20Mars/Unorthodox%20Jukebox/02%20Locked%20Out%20Of%20Heaven.mp3
-#EXTINF:308,Bad Meets Evil - Lighters
-../MusicLibrary/Bad%20Meets%20Evil/Hell_%20The%20Sequel/Lighters.mp3
 #EXTINF:253,OneRepublic - Counting Stars
 ../MusicLibrary/One%20Republic/Native/Counting%20Stars.mp3
 #EXTINF:231,One Republic - Secrets
 ../MusicLibrary/One%20Republic/Waking%20Up/03%20Secrets.mp3
-#EXTINF:195,Bruno Mars - Count on Me
-../MusicLibrary/Bruno%20Mars/Doo-Wops%20%26%20Hooligans/Count%20On%20Me.mp3
 #EXTINF:179,B.o.B - Airplanes
 ../MusicLibrary/B.o.B/B.o.B%20Presents_%20The%20Adventures%20of%20Bobby/Airplanes.mp3
-#EXTINF:226,Fall Out Boy - Centuries
-../MusicLibrary/Fall%20Out%20Boy/American%20Beauty%20American%20Psycho/Fall%20Out%20Boy.mp3
-#EXTINF:265,Macklemore & Ryan Lewis - Can't Hold Us
-../MusicLibrary/Macklemore%20%26%20Ryan%20Lewis/The%20Heist/Can%27t%20Hold%20Us.mp3
 #EXTINF:214,Coldplay - Princess Of China
 ../MusicLibrary/Coldplay/Mylo%20Xyloto/10%20Princess%20Of%20China.mp3
 #EXTINF:233,Maroon 5 - Sugar
@@ -57,10 +49,6 @@
 ../MusicLibrary/The%20Wanted/The%20Wanted/01%20Glad%20You%20Came.mp3
 #EXTINF:197,The Wanted - Chasing The Sun
 ../MusicLibrary/The%20Wanted/The%20Wanted/02%20Chasing%20The%20Sun.mp3
-#EXTINF:239,Akon - Right Now (Na Na Na)
-../MusicLibrary/Akon/Freedom/Right%20Now%20%28Na%20Na%20Na%29.mp3
-#EXTINF:214,O-Zone - Dragostea Din Tei
-../MusicLibrary/O-Zone/Number%201/Dragostea%20Din%20Tei.mp3
 #EXTINF:218,Backstreet Boys - As Long as You Love Me
 ../MusicLibrary/Backstreet%20Boys/Backstreet%27s%20Back/As%20Long%20as%20You%20Love%20Me.mp3
 #EXTINF:212,Backstreet Boys - I Want it that Way
@@ -71,10 +59,6 @@
 ../MusicLibrary/Jessie%20J/Who%20You%20Are/01%20Price%20Tag%20ft.%20B.o.B.mp3
 #EXTINF:238,Adele - Set Fire To The Rain
 ../MusicLibrary/Adele/21/Set%20Fire%20To%20The%20Rain.mp3
-#EXTINF:241,Sean Kingston - Beautiful Girls
-../MusicLibrary/Sean%20Kingston/Beautiful%20Girls.mp3
-#EXTINF:268,Bruno Mars - Uptown Funk
-../MusicLibrary/Bruno%20Mars/Uptown%20Special/Uptown%20Funk.mp3
 #EXTINF:240,Rihanna - Umbrella
 ../MusicLibrary/Rihanna/Good%20Girl%20Gone%20Bad_%20Reloaded/01%20Umbrella.mp3
 #EXTINF:228,Jessie J - Domino
@@ -105,12 +89,8 @@
 ../MusicLibrary/Daniel%20Kim/Popdanthology/Pop%20Danthology%202012.mp3
 #EXTINF:221,Rihanna - Diamonds
 ../MusicLibrary/Rihanna/Unapologetic/Diamonds.mp3
-#EXTINF:219,Katy Perry - Hot N Cold
-../MusicLibrary/Katy%20Perry/One%20of%20the%20Boys/Hot%20N%20Cold.mp3
-#EXTINF:248,Ellie Goulding - Love Me Like You Do
-../MusicLibrary/Ellie%20Goulding/Bright%20Lights/Love%20Me%20Like%20You%20Do.mp3
-#EXTINF:420,Zara Larsson - Symphony
-../MusicLibrary/Zara%20Larsson/So%20Good/Symphony.mp3
+#EXTINF:175,Sabrina Carpenter - Espresso
+../MusicLibrary/Sabrina%20Carpenter/Espresso/Espresso.mp3
 #EXTINF:181,Dua Lipa - Don't Start Now
 ../MusicLibrary/Dua%20Lipa/Future%20Nostalgia/Don't%20Start%20Now.mp3
 #EXTINF:207,Dua Lipa - Hallucinate
@@ -121,14 +101,34 @@
 ../MusicLibrary/Dua%20Lipa/Future%20Nostalgia/Physical.mp3
 #EXTINF:172,Fifty Fifty - Cupid
 ../MusicLibrary/Fifty%20Fifty/Cupid/Cupid.mp3
+#EXTINF:248,Ellie Goulding - Love Me Like You Do
+../MusicLibrary/Ellie%20Goulding/Bright%20Lights/Love%20Me%20Like%20You%20Do.mp3
 #EXTINF:241,Ellie Goulding - Lights
 ../MusicLibrary/Ellie%20Goulding/Bright%20Lights/Lights.mp3
+#EXTINF:420,Zara Larsson - Symphony
+../MusicLibrary/Zara%20Larsson/So%20Good/Symphony.mp3
 #EXTINF:212,Sia - Chandelier
 ../MusicLibrary/Sia/1000%20Forms%20of%20Fear/Chandelier.mp3
+#EXTINF:219,Katy Perry - Hot N Cold
+../MusicLibrary/Katy%20Perry/One%20of%20the%20Boys/Hot%20N%20Cold.mp3
 #EXTINF:226,Katy Perry - The One That Got Away
 ../MusicLibrary/Katy%20Perry/Teenage%20Dream/The%20One%20That%20Got%20Away.mp3
 #EXTINF:227,Katy Perry - Teenage Dream
 ../MusicLibrary/Katy%20Perry/Teenage%20Dream/Teenage%20Dream.mp3
+#EXTINF:265,Macklemore & Ryan Lewis - Can't Hold Us
+../MusicLibrary/Macklemore%20%26%20Ryan%20Lewis/The%20Heist/Can%27t%20Hold%20Us.mp3
+#EXTINF:268,Bruno Mars - Uptown Funk
+../MusicLibrary/Bruno%20Mars/Uptown%20Special/Uptown%20Funk.mp3
+#EXTINF:214,O-Zone - Dragostea Din Tei
+../MusicLibrary/O-Zone/Number%201/Dragostea%20Din%20Tei.mp3
+#EXTINF:239,Akon - Right Now (Na Na Na)
+../MusicLibrary/Akon/Freedom/Right%20Now%20%28Na%20Na%20Na%29.mp3
+#EXTINF:241,Sean Kingston - Beautiful Girls
+../MusicLibrary/Sean%20Kingston/Beautiful%20Girls.mp3
+#EXTINF:226,Fall Out Boy - Centuries
+../MusicLibrary/Fall%20Out%20Boy/American%20Beauty%20American%20Psycho/Fall%20Out%20Boy.mp3
+#EXTINF:195,Bruno Mars - Count on Me
+../MusicLibrary/Bruno%20Mars/Doo-Wops%20%26%20Hooligans/Count%20On%20Me.mp3
 #EXTINF:238,Dirty Money - Coming Home
 ../MusicLibrary/Dirty%20Money/Last%20Train%20to%20Paris/Coming%20Home.mp3
 #EXTINF:224,Gym Class Heroes - The Fighter

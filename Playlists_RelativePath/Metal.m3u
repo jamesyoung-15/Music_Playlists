@@ -31,24 +31,26 @@
 ../MusicLibrary/Slipknot/_5_%20The%20Gray%20Chapter/Custer.mp3
 #EXTINF:260,Slipknot - Unsainted
 ../MusicLibrary/Slipknot/We%20Are%20Not%20Your%20Kind/Unsainted.mp3
+#EXTINF:315,Pantera - Walk
+../MusicLibrary/Pantera/Vulgar%20Display%20of%20Power/Walk.mp3
 #EXTINF:271,Korn - Here To Stay
 ../MusicLibrary/Korn/Untouchables/Here%20to%20Stay.mp3
 #EXTINF:192,Suicide Silence - You Only Live Once
 ../MusicLibrary/Suicide%20Silence/The%20Black%20Crown/You%20Only%20Live%20Once.mp3
+#EXTINF:259,Trapt - Headstrong
+../MusicLibrary/Trapt/Trapt/Headstrong.mp3
 #EXTINF:245,Disturbed - Stricken
 ../MusicLibrary/Disturbed/Ten%20Thousand%20Fists/Stricken.mp3
 #EXTINF:243,Disturbed - Indestructible
 ../MusicLibrary/Disturbed/Indestructible/Indestructible.mp3
 #EXTINF:286,Disturbed - The Night
 ../MusicLibrary/Disturbed/Indestructible/The%20Night.mp3
-#EXTINF:315,Pantera - Walk
-../MusicLibrary/Pantera/Vulgar%20Display%20of%20Power/Walk.mp3
 #EXTINF:216,Disturbed - Down With the Sickness
 ../MusicLibrary/Disturbed/The%20Sickness/Down%20With%20The%20Sickness.mp3
-#EXTINF:208,System of a Down - Chop Suey!
-../MusicLibrary/System%20of%20a%20Down/Toxicity/Chop%20Suey.mp3
 #EXTINF:202,Drowning Pool - Bodies
 ../MusicLibrary/Drowning%20Pool/Sinner/Bodies.mp3
+#EXTINF:208,System of a Down - Chop Suey!
+../MusicLibrary/System%20of%20a%20Down/Toxicity/Chop%20Suey.mp3
 #EXTINF:231,Megadeth - Symphony Of Destruction
 ../MusicLibrary/Megadeth/Countdown%20to%20Extinction/Symphony%20Of%20Destruction.mp3
 #EXTINF:291,AC/DC - Thunderstruck
@@ -71,8 +73,16 @@
 ../MusicLibrary/Linkin%20Park/Hybrid%20Theory/07%20By%20Myself.mp3
 #EXTINF:191,Linkin Park - Pushing Me Away
 ../MusicLibrary/Linkin%20Park/Hybrid%20Theory/12%20Pushing%20Me%20Away.mp3
+#EXTINF:187,Linkin Park - Don't Stay
+../MusicLibrary/Linkin%20Park/Meteora/02%20Don't%20Stay.mp3
+#EXTINF:162,Linkin Park - Faint
+../MusicLibrary/Linkin%20Park/Meteora/07%20Faint.mp3
+#EXTINF:197,Linkin Park - Figure.09
+../MusicLibrary/Linkin%20Park/Meteora/08%20Figure.09.mp3
 #EXTINF:254,AC/DC - Back in Black
 ../MusicLibrary/ACDC/Back%20in%20Black/Back%20in%20Black.mp3
+#EXTINF:215,Marilyn Manson - The Nobodies
+../MusicLibrary/Marilyn%20Manson/Holy%20Wood%20(In%20the%20Shadow%20of%20the%20Valley%20of%20Death)/The%20Nobodies.mp3
 #EXTINF:231,Korn - Blame
 ../MusicLibrary/Korn/Untouchables/Blame.mp3
 #EXTINF:270,Korn - Falling Away from Me
@@ -83,8 +93,6 @@
 ../MusicLibrary/Disturbed/Immortalized/Legion%20of%20Monsters.mp3
 #EXTINF:231,Disturbed - Inside the Fire
 ../MusicLibrary/Disturbed/Indestructible/Inside%20the%20Fire.mp3
-#EXTINF:215,Marilyn Manson - The Nobodies
-../MusicLibrary/Marilyn%20Manson/Holy%20Wood%20(In%20the%20Shadow%20of%20the%20Valley%20of%20Death)/The%20Nobodies.mp3
 #EXTINF:238,Deftones - Elite
 ../MusicLibrary/Deftones/White%20Pony/Elite.mp3
 #EXTINF:144,Slipknot - Spit It Out
